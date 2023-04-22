@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+
+
+
+#navbar login account
+
+.navbar-login {
+	width: 305px;
+	padding: 10px;
+	padding-bottom: 0px;
+}
+
+.navbar-login-session {
+	padding: 10px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+}
+
+.icon-size {
+	font-size: 87px;
+}
+
+.espacio {
+	margin-top: 50px;
+}
+
+.centrar {
+	display: flex;
+	justify-content: center;
+}
