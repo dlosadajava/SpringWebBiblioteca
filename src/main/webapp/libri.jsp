@@ -101,6 +101,7 @@ var listTitolo =null;
 
 <!-- <body class="home"  onload="mostrar('<%=listG%>')"> -->
 <body class="home">
+
 	<div class="container-fluid display-table">
 
 		<div class="row display-table-row">
